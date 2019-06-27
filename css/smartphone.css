@@ -1,6 +1,6 @@
 @media screen and (max-width: 640px) {
     body{
-        background: red;
+        /* background: red; */
     }
 
     .banniere{
@@ -10,4 +10,21 @@
     a{
         font-size: 1em;
     }
+
+    .container-content{
+        flex-wrap: wrap;
+    }
+
+    .vitrine{
+        width: 100%;
+    }
+    .aside-right{
+        display: none;
+    }
+
+    .aside-bottom{
+        align-items: center;
+        flex-direction: column;
+    }
+
   }
