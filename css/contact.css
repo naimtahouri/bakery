@@ -1,0 +1,30 @@
+h2{
+    color:white;
+    font-weight: bold;
+}
+
+.banniere{
+    background-image: url('../img/banniere-four.jpeg');
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    /* background:red; */
+}
+
+.box-iframe{
+    display: flex;
+    margin:10px;
+}
+
+.box-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-contact{
+    height:100px;
+}

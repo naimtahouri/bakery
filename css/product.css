@@ -1,0 +1,40 @@
+.banniere{
+    background-image: url('../img/banniere-two.jpeg');
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* background: green; */
+    align-items: center;
+}
+
+.box-cakes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background: red; */
+    justify-content: space-around;
+    padding:20px;
+}
+
+.cake{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* background: purple; */
+    margin:20px;
+}
+
+.cake-product:hover{
+    transform: scale(1.1);
+
+}
+
+.cake-product{
+    height:300px;
+    border-radius: 8px;
+    transition: 1s;
+}
