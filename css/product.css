@@ -35,6 +35,11 @@
 
 .cake-product{
     height:300px;
-    border-radius: 8px;
+    border-radius: 2%;
     transition: 1s;
+}
+
+h1{
+    font-family: 'Allura', cursive;
+    font-size:3.5em;
 }

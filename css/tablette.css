@@ -16,18 +16,21 @@
         display: none;
     }
 
-    .vitrine{
-        width: 100%;
-        padding: 0;
-        margin: auto;
+    .aside-left{
+        margin:auto;
     }
 
     .aside-bottom{
         align-items: center;
-        margin-top:-20px;
+        margin-top:20px;
     }
 
     .box-slider{
         display: none;
     }
+
+    .title-feedback{
+        display: none;
+    }
+
  }
