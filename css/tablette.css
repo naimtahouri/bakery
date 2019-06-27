@@ -1,6 +1,6 @@
 @media all and (min-width: 480px) and (max-width: 1024px) {
     body{
-        /* background: blue; */
+        background: blue;
     }
 
     .container-content{
@@ -23,6 +23,7 @@
 
     .aside-bottom{
         align-items: center;
+        margin-top:-20px;
     }
 
     .box-slider{
