@@ -1,6 +1,7 @@
-h2{
-    color:white;
+h2,h3{
+    color:black;
     font-weight: bold;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .banniere{

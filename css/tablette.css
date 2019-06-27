@@ -5,6 +5,7 @@
 
     .container-content{
         flex-wrap: wrap;
+        background: none;
     }
 
     .banniere{

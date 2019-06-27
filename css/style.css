@@ -34,25 +34,35 @@ h1, h2, h3, h4{
 /* ./INIT BODY */
 
 /* NAVBAR */
+
 .navbar{
     display: flex;
-    justify-content: center;
     background: rgb(97, 66, 66);
     height:110px;
+    padding:5px;
 }
 
 .white{
     background-color: white;
     border-radius: 5rem;
+    display: flex;
 }
 
 .logo{
     height:120px;
 }
 
+.box-items{
+    display: flex;
+    justify-content: flex-end;
+    width:100%;
+    margin-top:20px;
+}
+
 .link-items{
     margin:20px;
 }
+
 /* ./NAVBAR */
 
 /* BANNIERE */
